@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1543328084 source:c:\users\laurent\desktop\projet_c_1819\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+
+1545563526 source:c:\users\laurent\desktop\projet c\projet_c_1819\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"./fonction.h"
+
+1543342870 c:\users\laurent\desktop\projet c\projet_c_1819\struct.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1543622777 c:\users\laurent\desktop\projet c\projet_c_1819\deplacement.h
+	<stdio.h>
+	<stdlib.h>
+
+1543393130 c:\users\laurent\desktop\projet c\projet_c_1819\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"./struct.h"
+	"./deplacement.h"
+
+1543622777 source:c:\users\laurent\desktop\projet c\projet_c_1819\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	"./deplacement.h"
+
+1543582101 c:\users\laurent\desktop\projet c\projet_c_1819\bloc.h
+	<stdio.h>
+	<stdlib.h>
+
+1543581583 source:c:\users\laurent\desktop\projet c\projet_c_1819\bloc.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"./bloc.h"
+
+1545563639 c:\users\laurent\desktop\projet c\projet_c_1819\fonction.h
+	<stdio.h>
+	<stdlib.h>
+
+1545564336 source:c:\users\laurent\desktop\projet c\projet_c_1819\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	"./fonction.h"
+
